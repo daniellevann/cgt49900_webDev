@@ -1,0 +1,98 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Oleo+Script&family=Source+Sans+Pro&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Oleo+Script&family=Source+Sans+Pro:wght@400;700&display=swap');
+
+body{
+   font-family:"Source Sans Pro";
+   color:#707070;
+   margin:0;
+   font-size:26px
+}
+hr{
+    width:100%;
+    color:#707070;
+    margin:0;
+}
+
+h1{
+    font:normal 62px Oleo Script;
+    color:#707070;}
+
+h2{
+    font: bold 62px Source Sans Pro;
+    color: #001081;
+}
+h3{
+    font: normal 32px Source Sans Pro;
+    color: #707070;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    text-align: center;
+  }
+  
+  li {
+    display: inline;
+  }
+  
+  li a {
+    display: inline-block;
+    color: #707070;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font:normal 26px Source Sans Pro;
+  }
+
+  a:hover{
+      text-decoration: underline;
+  }
+
+#logo{
+    width: 408px;
+    height: 110px;
+    margin-bottom: 0;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    /* width: 50%; */
+}
+
+.blueBox {
+    background-color: #00DCFF;
+    width:100%;
+    height:435px;
+    margin:0
+}
+.greenBox{
+    background-color: #00E80F;
+    width:100%;
+    height:445px;
+    text-align:center;
+    margin: 0;
+    
+}
+
+.float-right{
+    float:right;
+    margin:0
+}
+.float-left{
+    float:left;
+    margin:0
+}
+
+#homeImg{
+    width: 675px;
+    height: 100%;
+}
+#webIcons{
+    width:70px;
+    height:30px;
+}
